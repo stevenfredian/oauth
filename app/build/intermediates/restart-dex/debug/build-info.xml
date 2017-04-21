@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="140776819314279"
+    token="3822132575997885400"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="986" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="29" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="140776819314279"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

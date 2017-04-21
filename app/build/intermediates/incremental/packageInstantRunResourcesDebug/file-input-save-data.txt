@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Apr 21 12:13:09 WIB 2017
+1.base=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.file=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_intro.xml
+4.set=ANDROID_RESOURCE
+2.base=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.file=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+4.base=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/res/resources-debug.ap_

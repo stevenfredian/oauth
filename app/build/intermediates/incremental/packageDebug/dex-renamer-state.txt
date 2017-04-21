@@ -1,0 +1,7 @@
+#Fri Apr 21 15:25:43 WIB 2017
+base.0=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bdf3cab089f5cfa1f06c25bd3eaccaf7b7bbb0f9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d4b57878005de5b85934a936843c3b219f228113/classes.dex
+base.1=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d4b57878005de5b85934a936843c3b219f228113
+file.0=/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bdf3cab089f5cfa1f06c25bd3eaccaf7b7bbb0f9/classes.dex

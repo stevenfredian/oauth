@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/res/merged/debug/layout/activity_intro.xml",
+        "source": "/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/src/main/res/layout/activity_intro.xml"
+    },
+    {
+        "merged": "/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/src/main/res/layout/activity_main.xml"
+    }
+]

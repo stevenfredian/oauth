@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/libs/commons-logging-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5043bfebc3db072ed80fbd362e7caf00e885d8ae">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-logging-1.1.1_e4232fe6e5c8097dc6c4d10001b547ddfd331732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/libs/gson-2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.1_a120981bfae60ac3ae43335eb75af4bd92f443b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/libs/jackson-core-asl-1.9.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e32303ef8bd18a5c9272780d49b81c95e05ddf43">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/jackson-core-asl-1.9.11_ee7b7c4e382584ad9a3ff2fb6060e579d95c7206/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/libs/google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-1.22.0_d06dd615d32977d4f4fb7bc82d3589630a05707f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.22.0_5d8b4b67d0f2058f4af4a0b79ad50366bbb8ccec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/libs/httpclient-4.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d7d28fa738bdbfe4fbd895d9486308999bdf440">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.0.1_656c98a9ababfe6823d1444358b987a4d222d3f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/libs/google-http-client-jackson-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0de49da148fed367eaf1fb8851fa4d403f091201">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-jackson-1.22.0_23cfff2c1669404a058da20f316f4cb3c08cfba7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/libs/httpcore-4.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e813b8722c387b22e1adccf7914729db09bcb4a9">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.0.1_b3305dc67a4a2988db6a6328424b81426078cf2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a4c9237fc57506aaeb2fffdefa50cd6e6bf2fc6">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d4b57878005de5b85934a936843c3b219f228113/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/libs/google-http-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-android-1.22.0_eae457b78c2b0c5a422ad617c6d88b47a60fded4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/libs/jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsr305-1.3.9_970e990eb3931efcc42cb145f49391640ab8e67f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-plus/v1-rev519-1.22.0/c3d23b71ae9f253cdfc57eb10b6527ab56415181/google-api-services-plus-v1-rev519-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3d23b71ae9f253cdfc57eb10b6527ab56415181">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-services-plus-v1-rev519-1.22.0_20942eea8eef2eb01d947bce72a6aba0dee1d978/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/libs/protobuf-java-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/protobuf-java-2.6.1_ffbbe66c0f58b1fd852ce38a7d2131b6a5156ab3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a1d31529ee43bb120c78c67b37d33a82d39d7ff">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bdf3cab089f5cfa1f06c25bd3eaccaf7b7bbb0f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-17.0_b38f318f16e474d44d660d9cb64b3902cc2a6e46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_6bbdb51e74ef3f74d9a7e8ec450ccae4978a7540/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.22.0_fed966a862bf166feb102fae2c36c5daea6e2127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stevenfredian/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="/Users/stevenfredian/Downloads/AndroidOauth2GoogleApiJavaClient-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.22.0_67321a1896f9fc6f0ab17dc89b0e7c0edc2df5b7/classes.dex" />
+    </item>
+
+</items>
